@@ -19,6 +19,11 @@ Les couleurs ne se configurent pas dans le plugin. Elles viennent des **groupes 
 - Les groupes dont la requête n'est pas un simple tag (`path:`, `file:`, combinaisons `OR`…) sont ignorés par le plugin. Ils continuent de colorer les nœuds normalement.
 - Le graphe global et le graphe local ont chacun leurs propres groupes.
 
+<img width="227" height="81" alt="image" src="https://github.com/user-attachments/assets/bcd24534-f6c0-4983-8c29-99b9b37b1667" />
+<img width="156" height="121" alt="image" src="https://github.com/user-attachments/assets/9dceab8c-2688-4f15-bddd-5f5fa881249c" />
+<img width="174" height="163" alt="image" src="https://github.com/user-attachments/assets/8ba0c22b-9fe5-4199-960b-c1daeda27d6d" />
+
+
 Réglages du plugin :
 
 - **Inclure les sous-tags** : `tag:#windows` colore aussi `#windows/server`. Activé par défaut, comme la recherche d'Obsidian.
