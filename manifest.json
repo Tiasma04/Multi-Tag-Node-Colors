@@ -1,0 +1,9 @@
+{
+	"id": "multi-tag-node-colors",
+	"name": "Multi-Tag Node Colors",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "Colore les nœuds du graphe en camembert quand une note correspond à plusieurs groupes de couleurs de tags.",
+	"author": "",
+	"isDesktopOnly": false
+}
